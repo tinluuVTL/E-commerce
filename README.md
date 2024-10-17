@@ -25,5 +25,3 @@ yarn dev
 ```
 Mở [http://localhost:5173/](http://localhost:5173/) bằng trình duyệt của bạn để xem kết quả.
 
-## Triển khai trên Vercel
-Xem [Dự án này trên Vercel](https://travigo-travel-jsstack.vercel.app) của tôi để biết thêm chi tiết.
